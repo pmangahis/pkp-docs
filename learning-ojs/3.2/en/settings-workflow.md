@@ -71,8 +71,6 @@ Use the drop down menu to select either the number of days or “Never Remind”
 
 Hit the **Save** button to record your changes.
 
-![OJS 3.2 notification of author submission screen.](./assets/learning-ojs3.1-jm-settings-review-reminders.png)
-
 Note that some system settings must be configured by the Site Administrator to send email. See the [Administrator's Guide](https://docs.pkp.sfu.ca/admin-guide/en/email) for more information.
 
 ### Review Guidance
